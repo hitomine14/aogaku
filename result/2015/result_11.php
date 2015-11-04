@@ -150,7 +150,7 @@
   </tbody>
   </table>
 
-  <font size="+1"><a href="result_10.php">2015年10月競技結果へ</a></font>　　　<!-- <a href="result_7.php">2015年10月競技結果へ</a> -->
+  <font size="+1"><a href="result_10.php">2015年10月競技結果へ</a></font>　　　<!-- <a href="result_12.php">2015年12月競技結果へ</a> -->
   <!-- ここまで編集可能 -->
 
   <hr>

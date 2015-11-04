@@ -153,7 +153,7 @@
         result_list_sub("山田　滉介",1,"14:42.59",27,"");
     result_end();
   ?>
-  <font size="+1"><a href="result_9.php">2015年9月競技結果へ</a></font>　　　<!-- <a href="result_7.php">2015年10月競技結果へ</a> -->
+  <font size="+1"><a href="result_9.php">2015年9月競技結果へ</a>　　　 <a href="result_11.php">2015年11月競技結果へ</a> </font> 
   <!-- ここまで編集可能 -->
 
   <hr>

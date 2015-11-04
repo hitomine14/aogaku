@@ -41,7 +41,7 @@
       result_list("決勝",1,"渡邉　心",4,"28:57:21",7,"入賞 PB!!");
     result_end();
   ?>
-  <font size="+1"><a href="result_7.php">2015年7月競技結果へ</a></font>　　　<!-- <a href="result_7.php">2015年10月競技結果へ</a> -->
+  <font size="+1"><a href="result_7.php">2015年7月競技結果へ</a>　　　 <a href="result_10.php">2015年10月競技結果へ</a> </font>
   <!-- ここまで編集可能 -->
 
   <hr>

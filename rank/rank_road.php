@@ -49,10 +49,10 @@
     </tr>
     <tr>
     <td align="center" style="font-size : 110%;text-align : center;">20km</td>
-    <td align="center" style="font-size : 110%;text-align : center;">58：51</td>
-    <td align="center" style="font-size : 110%;text-align : center;">出岐　雄大</td>
-    <td align="center" style="font-size : 110%;text-align : center;">高島平20km</td>
-    <td align="center" style="font-size : 110%;text-align : center;">10・10</td>
+    <td align="center" style="font-size : 110%;text-align : center;">58：11</td>
+    <td align="center" style="font-size : 110%;text-align : center;">神野　大地</td>
+    <td align="center" style="font-size : 110%;text-align : center;">香川丸亀国際ハーフ</td>
+    <td align="center" style="font-size : 110%;text-align : center;">15・2</td>
     </tr>
     <tr>
     <td align="center" style="font-size : 110%;text-align : center;">ハーフ</td>
@@ -185,7 +185,7 @@
     <td align="center" style="font-size : 110%;text-align : center;">7区</td>
     <td align="center" style="font-size : 110%;text-align : center;">21.3km</td>
     <td align="center" style="font-size : 110%;text-align : center;"><font color="#333333">小椋　裕介</font></td>
-    <td align="center" style="font-size : 110%;text-align : center;"><font color="#333333">1:02:32</font></td>
+    <td align="center" style="font-size : 110%;text-align : center;"><font color="#333333">1:02:40</font></td>
     <td align="center" style="font-size : 110%;text-align : center;"><font color="#333333">3年生</font></td>
     <td align="center" style="font-size : 110%;text-align : center;"><font color="#333333">第91回/2015</font></td>
     </tr>
@@ -233,7 +233,7 @@
     <td align="center" style="font-size : 110%;text-align : center;"><font color="#ff0000">優勝</font></td>
     <td align="center" style="font-size : 110%;text-align : center;">2:09:05<br>
     <font color="#ff0000">大会記録</font></td>
-    <td align="center" style="font-size : 110%;text-align : center;">小椋裕介(2)、中村祐紀(4)、久保田和真(1)<br>下田裕太(6)、山村隼(2)、一色恭介(2)</td>
+    <td align="center" style="font-size : 110%;text-align : center;">小椋裕介(2)、中村祐紀(4)、久保田和真(1)<br>下田裕太(6)、山村隼(2)、一色恭志(2)</td>
     </tr>
   </tbody>
   </table>
