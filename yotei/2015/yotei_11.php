@@ -24,7 +24,7 @@
 	<table>
 	<tbody>
 		<tr>
-		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月8日（日） 宮古ハーフマラソン</b></td>
+		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月8日（日） 第29回宮古サーモンハーフマラソン</b></td>
 		</tr>
 		<tr>
 		<td width="599" style="font-size:120%;">＜ハーフマラソン＞<br>
@@ -44,7 +44,7 @@
 	<table>
 	<tbody>
 		<tr>
-		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月8日（日） 第４回　世田谷246ハーフマラソン</b></td>
+		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月8日（日） 第10回　世田谷246ハーフマラソン</b></td>
 		</tr>
 		<tr>
 		<td width="599" style="font-size:120%;">＜ハーフマラソン＞<br>
