@@ -27,10 +27,10 @@
             -->
             <h3 class="hpb-parts-hl-08 hpb-parts-hl-style">トピック・お知らせ</h3>
             <?php
-            form_topic_yotei(2015,11,8,"各種大会",11);
+            form_topic_yotei(2015,11,5,"各種大会",11);
+            form_topic_onrei(2015,11,5);
             form_topic_result(2015,11,1,"全日本大学駅伝","alljapan");
             form_topic_free(2015,10,31,"全日本大学駅伝の区間エントリーを掲載しました！",11);
-            form_topic_onrei(2015,10,31);
             form_topic_free(2015,10,17,"全日本大学駅伝のチームエントリーを掲載しました！",11);
             ?>
             <b>

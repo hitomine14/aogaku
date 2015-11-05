@@ -26,7 +26,21 @@
                           form_onrei_parent("ファイル名","氏名",学年,"商品","写真メンバー","width"もしくは"height");  保護者からの差し入れ
                           form_onrei_free("ファイル名","氏名","商品","写真メンバー","width"もしくは"height"); 不定形
                         -->
-               
+                        
+                        <?php form_onrei_free("matsunaga.jpg","熊本県在住の松永様","ぶどう・みかん・りんご","久保田・山村","height"); ?>
+                        <tr>
+                          <td bgcolor="#CCFF99" style="text-align : center;" align="center"><a href="images/hoda.jpg" rel="lightbox[onrei]" title="gekirei"><img src="images/hoda.jpg" width="203" height="270" alt="gekirei" title="gekirei"></a>
+                          </td>
+                          <td bgcolor="#CCFF99" style="text-align : left;" align="left" width="254" valign="middle">
+                            先日、相模原シティーセールスサポーターの保田健太様より、柿の差し入れを頂きました。<br>
+                            なんとこの柿はご自身で植えた木から収穫したものだそうです!<br>
+                            <br>
+                            この度は、誠にありがとうございました。<br>
+                            <br>
+                            写真は、利典・中村です。
+                          </td> 
+                        </tr>
+                        
                         <tr>
                           <td bgcolor="#CCFF99" style="text-align : center;" align="center"><a href="images/10kamino2.JPG" rel="lightbox[onrei]" title="gekirei"><img src="images/10kamino2.JPG" width="270" height="203" alt="gekirei" title="gekirei"></a>
                           </td>
