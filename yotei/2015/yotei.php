@@ -26,7 +26,7 @@
     form_yotei_schema();
     form_yotei_content_month(試合数(月間),試合数(日間)、年、月、日、大会名、場所、タグ、フラグ);
     form_yotei_content_day(試合数(日間),年、月、日、大会名、場所、タグ、フラグ);
-    form_yotei_content_day(年、月、日、大会名、場所、タグ、フラグ);
+    form_yotei_content_sub(年、月、日、大会名、場所、タグ、フラグ);
     -->
     <?php form_yotei_schema(); ?>
     <!-- 4月のレース -->
@@ -60,8 +60,9 @@
     <?php form_yotei_content_month(2,1,2015,10,3,"世田谷記録会(5000m)","世田谷区立<br>総合運動場","setagaya","詳細"); ?>
     <?php form_yotei_content_day(1,2015,10,12,"出雲全日本選抜駅伝","出雲","izumo","詳細"); ?>
     <!-- 11月のレース -->
-    <?php form_yotei_content_month(5,1,2015,11,1,"全日本大学駅伝","熱田神宮～伊勢神宮","zennihon","詳細"); ?>
-    <?php form_yotei_content_day(1,2015,11,8,"世田谷246ハーフマラソン","世田谷","setagaya246",""); ?>
+    <?php form_yotei_content_month(6,1,2015,11,1,"全日本大学駅伝","熱田神宮～伊勢神宮","zennihon","詳細"); ?>
+    <?php form_yotei_content_day(2,2015,11,8,"世田谷246ハーフマラソン","世田谷","setagaya246","詳細"); ?>
+    <?php form_yotei_content_sub(2015,11,8,"宮古ハーフマラソン","岩手県","miyako","詳細"); ?>
     <?php form_yotei_content_day(1,2015,11,14,"日体大記録会(10000m)","日体大<br>健志台競技場","nittaidai",""); ?>
     <?php form_yotei_content_day(1,2015,11,15,"日体大記録会(5000m)","日体大<br>健志台競技場","nittaidai",""); ?>
     <?php form_yotei_content_day(1,2015,11,21,"学連10000m挑戦記録会","未定","gakuren",""); ?>

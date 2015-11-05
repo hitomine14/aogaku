@@ -19,8 +19,28 @@
 	<div id="info"><!-- info -->
 	<!-- ここから編集 -->
 	<h3 class="hpb-parts-hl-08 hpb-parts-hl-style">2015年度　～競技日程～</h3>
-
-	<a name="3_setagaya"></a>
+<!-- 宮古ハーフマラソン -->
+	<a name="8_miyako"></a>
+	<table>
+	<tbody>
+		<tr>
+		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月8日（日） 宮古ハーフマラソン</b></td>
+		</tr>
+		<tr>
+		<td width="599" style="font-size:120%;">＜ハーフマラソン＞<br>
+		石川　優作（2年）<br>
+		大越　望　（2年）<br><br>
+		＜10kmの部＞<br>
+		内田　翼　（3年）<br>
+		貞永　隆佑（2年）<br>
+		橋間　貴弥（1年）<br>
+		松田　岳大（1年）<br>
+		森田　歩希（1年）<br>
+		</tr>
+	</tbody>
+	</table>
+<!-- 世田谷246ハーフマラソン -->
+	<a name="8_setagaya"></a>
 	<table>
 	<tbody>
 		<tr>
