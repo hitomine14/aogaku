@@ -132,9 +132,9 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
-                <td style="font-size : 110%;text-align : center;" align="center" colspan="2"></td>
+                <td align="center" style="font-size : 110%;text-align : center;">1:04.12</td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
+                <td style="font-size : 110%;text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">その他</td>
@@ -175,9 +175,9 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
-                <td style="font-size : 110%;text-align : center;" align="center" colspan="2"></td>
+                <td align="center" style="font-size : 110%;text-align : center;">1:14:16</td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
+                <td style="font-size : 110%;text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">その他</td>
@@ -519,9 +519,9 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
-                <td style="font-size : 110%;text-align : center;" align="center" colspan="2"></td>
+                <td align="center" style="font-size : 110%;text-align : center;">1:07:17</td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
+                <td style="font-size : 110%;text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">その他</td>

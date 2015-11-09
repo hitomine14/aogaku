@@ -44,7 +44,7 @@
                 </tr>
                 <tr>
                   <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                  <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：04：30（大学2年）</td>
+                  <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：04：00（大学3年）</td>
                 </tr>
                 <tr>
                   <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">コメント</td>
@@ -130,7 +130,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：04：10（大学2年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：04：08（大学3年）</td>
               </tr>
               <tr>
                 <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">コメント</td>

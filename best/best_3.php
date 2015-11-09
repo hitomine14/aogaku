@@ -46,8 +46,8 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;">1:04:30</td>
-                <td align="center" style="font-size : 110%;text-align : center;">14・11</td>
+                <td align="center" style="font-size : 110%;text-align : center;">1:04:00</td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
@@ -131,9 +131,9 @@
               </tr>
               <tr>
                 <td style="text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;">1:04:10</td>
-                <td align="center" style="font-size : 110%;text-align : center;">15・3</td>
-                <td style="text-align : center;" align="center" colspan="2">日本学生ハーフ</td>
+                <td align="center" style="font-size : 110%;text-align : center;">1:04:08</td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
+                <td style="text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
                 <td style="text-align : center;" align="center" colspan="2">その他</td>

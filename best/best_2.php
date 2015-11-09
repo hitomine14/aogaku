@@ -476,9 +476,9 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>1:04.38</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;">15・1</td>
-                <td style="font-size : 110%;text-align : center;" align="center" colspan="2">高根沢ハーフ</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><normal>1:03.28</normal></td>
+                <td align="center" style="font-size : 110%;text-align : center;">15・11</td>
+                <td style="font-size : 110%;text-align : center;" align="center" colspan="2">世田谷ハーフ</td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">その他</td>

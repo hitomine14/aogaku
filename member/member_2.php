@@ -461,7 +461,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：04：02（大学1年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1：03：28（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">コメント</td>

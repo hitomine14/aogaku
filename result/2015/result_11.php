@@ -27,7 +27,277 @@
   result_list_sub(氏名、学年、タイム、順位、フラグ);
   result_end();
   -->
-  
+
+  <a name="8_miyako"></a>
+  <table>
+  <tbody>
+    <tr>
+    <td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年11月8日(日)　第29回　宮古サーモンハーフマラソン</b></td>
+    </tr>
+    <tr>
+    <td width="599">
+    ＜10kmの部＞
+    <table border="1">
+    <tbody>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">氏名</td>
+    <td align="center" style="font-size : 110%;text-align : center;">学年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">記録</td>
+    <td align="center" style="font-size : 110%;text-align : center;">順位</td>
+    <td align="center" style="font-size : 110%;text-align : center;">備考</td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">森田　歩希</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">29:47</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">貞永　隆佑</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">30:21</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">内田　翼</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">30:23</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">松田　岳大</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">30:27</td>
+    <td align="center" style="font-size : 110%;text-align : center;">5位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">橋間　貴弥</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">30:29</td>
+    <td align="center" style="font-size : 110%;text-align : center;">6位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    </tbody>
+    </table>
+    <br>＜ハーフ部＞
+    <table border="1">
+    <tbody>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">氏名</td>
+    <td align="center" style="font-size : 110%;text-align : center;">学年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">記録</td>
+    <td align="center" style="font-size : 110%;text-align : center;">順位</td>
+    <td align="center" style="font-size : 110%;text-align : center;">備考</td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">石川　優作</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:06:03</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></font></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">大越　望</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:08:11</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></font></td>
+    </tr>
+    </tbody>
+    </table>
+    <br>
+    <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+    </td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<!-- 世田谷246ハーフマラソン -->
+  <a name="8_setagaya"></a>
+  <table>
+  <tbody>
+    <tr>
+    <td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年11月8日(日)　第10回　世田谷246ハーフマラソン</b></td>
+    </tr>
+    <tr>
+    <td width="599">
+    <table border="1">
+    <tbody>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">氏名</td>
+    <td align="center" style="font-size : 110%;text-align : center;">学年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">記録</td>
+    <td align="center" style="font-size : 110%;text-align : center;">順位</td>
+    <td align="center" style="font-size : 110%;text-align : center;">備考</td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">中村　祐紀</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:03:28</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><font color="#f00">PB!!<br>優勝!</font></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">渡邉　利典</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:03:54</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">秋山　雄飛</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:00</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><pb>PB!!</pb></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">池田　生成</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:08</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><pb>PB!!</pb></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">梶谷　瑠哉</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:12</td>
+    <td align="center" style="font-size : 110%;text-align : center;">5位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><sb>初レース</sb></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">吉永　竜聖</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:22</td>
+    <td align="center" style="font-size : 110%;text-align : center;">7位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">渡邉　心</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:29</td>
+    <td align="center" style="font-size : 110%;text-align : center;">8位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">近藤修一郎</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:46</td>
+    <td align="center" style="font-size : 110%;text-align : center;">9位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">茂木　亮太</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:04:49</td>
+    <td align="center" style="font-size : 110%;text-align : center;">10位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">山村　隼</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:29</td>
+    <td align="center" style="font-size : 110%;text-align : center;">12位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">小野塚隆珠</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:53</td>
+    <td align="center" style="font-size : 110%;text-align : center;">15位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">田村　健人</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:58</td>
+    <td align="center" style="font-size : 110%;text-align : center;">16位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">下田　裕太</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:59</td>
+    <td align="center" style="font-size : 110%;text-align : center;">17位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">小椋　裕介</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:59</td>
+    <td align="center" style="font-size : 110%;text-align : center;">18位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">安藤　悠哉</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:05:59</td>
+    <td align="center" style="font-size : 110%;text-align : center;">19位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">松島　良太</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:06:48</td>
+    <td align="center" style="font-size : 110%;text-align : center;">24位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">鈴木　悠日</td>
+    <td align="center" style="font-size : 110%;text-align : center;">3年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:06:51</td>
+    <td align="center" style="font-size : 110%;text-align : center;">25位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">山田　滉介</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:07:17</td>
+    <td align="center" style="font-size : 110%;text-align : center;">30位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><sb>初レース</sb></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">伊藤　弘毅</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:08:17</td>
+    <td align="center" style="font-size : 110%;text-align : center;">41位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">田村　和希</td>
+    <td align="center" style="font-size : 110%;text-align : center;">2年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:12:59</td>
+    <td align="center" style="font-size : 110%;text-align : center;">69位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">橋本　崚</td>
+    <td align="center" style="font-size : 110%;text-align : center;">4年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:12:59</td>
+    <td align="center" style="font-size : 110%;text-align : center;">70位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"></td>
+    </tr>
+    <tr>
+    <td align="center" style="font-size : 110%;text-align : center;">桂川　直也</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1年</td>
+    <td align="center" style="font-size : 110%;text-align : center;">1:14:16</td>
+    <td align="center" style="font-size : 110%;text-align : center;">79位</td>
+    <td align="center" style="font-size : 110%;text-align : center;"><sb>初レース</sb></td>
+    </tr>
+    </tbody>
+    </table>
+    <br>
+    <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+    </td>
+    </tr>
+  </tbody>
+  </table>
+<!-- 全日本大学駅伝  -->
   <a name="1_alljapan"></a>
   <table>
   <tbody>

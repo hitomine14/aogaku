@@ -127,7 +127,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">ー</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1:04:12（大学1年）</td>
               </tr>
               <tr>
                 <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">コメント</td>
@@ -169,7 +169,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">ー</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1:14:16（大学1年）</td>
               </tr>
               <tr>
                 <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">コメント</td>
@@ -498,11 +498,11 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;"></td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">1:07:17（大学1年）</td>
               </tr>
               <tr>
                 <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;"></td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;"><br></td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;"><br></td>  
               </tr>
               <tr>
                 <td align="left" valign="top" class="hpb-dp-tb1-cell2" style="text-align : left;" colspan="3">＜主な実績・備考＞<br><br>
