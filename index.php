@@ -21,18 +21,16 @@
             <!--      
             入力例（リンク）
             form_topic_result(大会年,月,日,大会名,フラグ);  試合結果
-            form_topic_yotei(更新年,月,日,大会月);
+            form_topic_yotei(更新年,月,日,大会名,大会月);
             form_topic_onrei(更新年,月,日);
             form_topic_free(更新年,月,日,大会月) 試合予定
             -->
             <h3 class="hpb-parts-hl-08 hpb-parts-hl-style">トピック・お知らせ</h3>
             <?php
+            form_topic_yotei(2015,11,17,"10000m記録挑戦会",11);
             form_topic_onrei(2015,11,13);
             form_topic_result(2015,11,8,"各種大会","");
             form_topic_yotei(2015,11,5,"各種大会",11);
-            form_topic_result(2015,11,1,"全日本大学駅伝","alljapan");
-            form_topic_free(2015,10,31,"全日本大学駅伝の区間エントリーを掲載しました！",11);
-            form_topic_free(2015,10,17,"全日本大学駅伝のチームエントリーを掲載しました！",11);
             ?>
             <b>
               <font size="4">＜2015年度 『その一瞬を楽しめ』〜最強への徹底〜＞

@@ -64,7 +64,7 @@
     form_yotei_content_month(5,1,2015,11,1,"全日本大学駅伝","熱田神宮～伊勢神宮","zennihon","詳細");
     form_yotei_content_day(2,2015,11,8,"世田谷246ハーフマラソン","世田谷","setagaya246","詳細");
     form_yotei_content_sub(2015,11,8,"宮古ハーフマラソン","岩手県宮古市","miyako","詳細");
-    form_yotei_content_day(1,2015,11,21,"学連10000m挑戦記録会","未定","gakuren","");
+    form_yotei_content_day(1,2015,11,21,"学連10000m挑戦記録会","慶應","gakuren","詳細");
     form_yotei_content_day(1,2015,11,29,"東海大記録会(5000m)","東海大湘南校舎<br>陸上競技場","","");
     //12月のレース
     form_yotei_content_month(2,1,2015,12,"2-6","箱根駅伝選抜強化合宿","千葉県富津","","");
