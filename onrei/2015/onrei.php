@@ -26,8 +26,13 @@
     form_onrei_parent("ファイル名","氏名",学年,"商品","写真メンバー","width"もしくは"height");  保護者からの差し入れ
     form_onrei_free("ファイル名","氏名","商品","写真メンバー","width"もしくは"height"); 不定形
     -->
-
-
+    
+    
+      <?php form_onrei_free("11koseki.JPG","小関(3年)の祖父","ラフランス","森田・橋間","width"); ?>      
+      <?php form_onrei_free("11ando.JPG","安藤(3年)の祖母","柿","健人・茂木","width"); ?>      
+      <?php form_onrei_free("11horikawa.JPG","熊本県・人参屋堀川農園の堀川様","みかん","久保田","height"); ?>
+      <?php form_onrei_free("11hasuike.JPG","愛知県在住の蓮池様","ジュース","中村・一色・村井","width"); ?>
+    
     <tr>
       <td bgcolor="#CCFF99" style="text-align : left;" align="left" colspan="2">
         先日、青山学院常任委員・大河平容子様、<br>
