@@ -170,7 +170,7 @@
 									</tr>
 
 									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="3">10月 </td>
+										<td valign="middle" style="text-align : center;" align="center" rowspan="2">10月 </td>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">3日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">世田谷記録会(5000m)</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">世田谷区立<br>総合運動場</td>
@@ -182,36 +182,24 @@
 										<td valign="middle" style="text-align : center;" align="center" width="147">出雲</td>
 										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_10.php#12_izumo"><u>詳細</u></a></td>
 									</tr>
-									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">18日</td>
-										<td valign="middle" style="text-align : center;" align="center" width="169">高島平20km</td>
-										<td valign="middle" style="text-align : center;" align="center" width="147">板橋</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_10.php#18_takashimadaira"><u></u></a></td>
-									</tr>
+									
 									<tr>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="5">11月 </td>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">1日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">全日本大学駅伝</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">熱田神宮～伊勢神宮</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#1_alljapan"><u>詳細</u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#1_zennihon"><u>詳細</u></a></td>
 									</tr>
 									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">8日</td>
+										<td valign="middle" style="text-align : center;" align="center" rowspan="2">8日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">世田谷246ハーフマラソン</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">世田谷</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#8_setagaya246"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#8_setagaya246"><u>詳細</u></a></td>
 									</tr>
 									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">14日</td>
-										<td valign="middle" style="text-align : center;" align="center" width="169">日体大記録会(10000m)</td>
-										<td valign="middle" style="text-align : center;" align="center" width="147">日体大<br>健志台競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#14_nittaidai"><u></u></a></td>
-									</tr>
-									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">15日</td>
-										<td valign="middle" style="text-align : center;" align="center" width="169">日体大記録会(5000m)</td>
-										<td valign="middle" style="text-align : center;" align="center" width="147">日体大<br>健志台競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#15_nittaidai"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="169">宮古ハーフマラソン</td>
+										<td valign="middle" style="text-align : center;" align="center" width="147">岩手県宮古市</td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#8_miyako"><u>詳細</u></a></td>
 									</tr>
 									<tr>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">21日</td>
@@ -220,24 +208,26 @@
 										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#21_gakuren"><u></u></a></td>
 									</tr>
 									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="3">12月 </td>
+										<td valign="middle" style="text-align : center;" align="center" rowspan="1">29日</td>
+										<td valign="middle" style="text-align : center;" align="center" width="169">東海大記録会(5000m)</td>
+										<td valign="middle" style="text-align : center;" align="center" width="147">東海大湘南校舎<br>陸上競技場</td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#29_tokai"><u></u></a></td>
+									</tr>
+									
+									<tr>
+										<td valign="middle" style="text-align : center;" align="center" rowspan="2">12月 </td>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">2-6日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">箱根駅伝選抜強化合宿</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">千葉県富津</td>
 										<td valign="middle" style="text-align : center;" align="center" width="37"><a href=""><u></u></a></td>
 									</tr>
 									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">5日</td>
-										<td valign="middle" style="text-align : center;" align="center" width="169">日体大記録会(10000m)</td>
-										<td valign="middle" style="text-align : center;" align="center" width="147">日体大<br>健志台競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_12.php#5_nittaidai"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" rowspan="1">13日</td>
+										<td valign="middle" style="text-align : center;" align="center" width="169">国士舘大記録会(5000m)</td>
+										<td valign="middle" style="text-align : center;" align="center" width="147">国士舘大<br>多摩陸上競技場</td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_12.php#13_kokusikan"><u></u></a></td>
 									</tr>
-									<tr>
-										<td valign="middle" style="text-align : center;" align="center" rowspan="1">6日</td>
-										<td valign="middle" style="text-align : center;" align="center" width="169">日体大記録会(5000m)</td>
-										<td valign="middle" style="text-align : center;" align="center" width="147">日体大<br>健志台競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_12.php#6_nittaidai"><u></u></a></td>
-									</tr>
+									
 									<tr>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="3">1月 </td>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">2-3日</td>
