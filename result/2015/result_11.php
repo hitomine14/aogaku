@@ -28,6 +28,45 @@
   result_end();
   -->
 
+  <?php
+    result_start(2015,11,21,"土","10000m記録挑戦競技会","10000m","gakuren");
+    result_schema();
+      result_list("2組",3,"大杉　柊平",2,"30:58.66",4,"初レース");
+        result_list_sub("伊藤　雅一",2,"31:34.79",11,"");
+        result_list_sub("小野塚久弥",1,"31:43.16",14,"初レース");
+      result_list("7組",9,"森田　歩希",1,"29:58.37",3,"初レース");
+        result_list_sub("小野塚隆珠",3,"30:05.68",4,"pb");
+        result_list_sub("小田　俊平",2,"30:14.89",6,"pb");
+        result_list_sub("松田　岳大",1,"30:31.26",11,"初レース");
+        result_list_sub("鈴木　悠日",3,"31:19.01",18,"");
+        result_list_sub("大越　望　",2,"32:04.65",23,"");
+        result_list_sub("林　　奎介",1,"32:07.31",24,"初レース");
+        result_list_sub("木村　光佑",1,"32:38.99",26,"初レース");
+        result_list_sub("橋間　貴弥",1,"33:02.92",27,"初レース");
+      result_list("10組",7,"貞永　隆佑",2,"29:02.52",8,"初レース");
+        result_list_sub("松島　良太",4,"30:07.75",26,"");
+        result_list_sub("田村　健人",3,"30:21.09",27,"");
+        result_list_sub("橋詰　大慧",1,"30:44.69",28,"初レース");
+        result_list_sub("桂川　直也",1,"30:46,34",29,"初レース");
+        result_list_sub("石川　優作",2,"30:50.82",30,"pb");
+        result_list_sub("山田　滉介",1,"31:14.85",31,"初レース");
+      result_list("11組",15,"久保田和真",4,"28:24.50",1,"pb");
+        result_list_sub("下田　裕太",2,"28:33.77",4,"pb");
+        result_list_sub("中村　祐紀",2,"28:34.66",5,"pb");
+        result_list_sub("渡邉　利典",4,"28:35.05",6,"pb");
+        result_list_sub("一色　恭志",3,"28:35.55",7,"sb");
+        result_list_sub("渡邉　心　",4,"28:37.38",9,"pb");
+        result_list_sub("田村　和希",2,"28:46.81",12,"pb");
+        result_list_sub("池田　生成",3,"28:51.31",13,"pb");
+        result_list_sub("茂木　亮太",3,"29:00.67",15,"pb");
+        result_list_sub("橋本　崚　",4,"29:11.17",20,"");
+        result_list_sub("小椋　裕介",4,"29:13.64",21,"");
+        result_list_sub("山村　隼 ",4,"29:25.92",24,"");
+        result_list_sub("安藤　悠哉",3,"29:31.60",25,"");
+        result_list_sub("秋山　雄飛",3,"29:53.83",27,"");
+        result_list_sub("近藤修一郎",2,"31:15.95",31,"");
+    result_end();
+  ?>  
   <a name="8_miyako"></a>
   <table>
   <tbody>

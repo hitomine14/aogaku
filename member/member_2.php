@@ -40,7 +40,7 @@
                 </tr>
                 <tr>
                   <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                  <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">32：05.20（大学1年）</td>
+                  <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">30：50.82（大学2年）</td>
                 </tr>
                 <tr>
                   <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -206,7 +206,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">ー</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">30：58.37（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -246,7 +246,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">30：26.17（大学1年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">30：14.89（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -329,7 +329,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">−</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">29:02.52（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -371,7 +371,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">29：12.92（大学1年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">28：33.77（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -413,7 +413,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">29:09.61（大学2年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">28:46.81（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>
@@ -457,7 +457,7 @@
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">10000m</td>
-                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">29：02.88（大学2年）</td>
+                <td align="center" valign="middle" class="hpb-dp-tb1-cell1" width="223" style="text-align : center;">28：34.66（大学2年）</td>
               </tr>
               <tr>
                 <td align="center" valign="top" class="hpb-dp-tb1-cell1" width="123" style="text-align : center;">ハーフ（20km）</td>

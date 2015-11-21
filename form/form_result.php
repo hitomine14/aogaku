@@ -64,6 +64,8 @@ function result_list($kumi,$num,$name,$grade,$time,$place,$flag){
     echo "<pb>優勝</pb><br><sb>SB!</sb>";
   }else if($flag == "決勝進出"){
     echo "${flag}";
+  }else if($flag == "初レース"){
+    echo "<sb>初レース</sb>";
   }else{
     echo "<pb>${flag}</pb>";
   }
@@ -94,6 +96,8 @@ function result_list_sub($name,$grade,$time,$place,$flag){
     echo "<pb>優勝</pb><br><sb>SB!</sb>";
   }else if($flag == "決勝進出"){
     echo "${flag}";
+  }else if($flag == "初レース"){
+    echo "<sb>初レース</sb>";
   }else{
     echo "<pb>${flag}</pb>";
   }
@@ -131,6 +135,7 @@ function form_result_aside(){
   extract($GLOBALS);
   //11月結果
   result_link(2015,11);
+  result_link_list(2015,11,21,"学連10000m","21_gakuren");
   result_link_list(2015,11,1,"全日本大学駅伝","1_alljapan");
   result_link_end();
   //10月結果

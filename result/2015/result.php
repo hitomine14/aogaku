@@ -205,7 +205,7 @@
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">21日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">学連10000m挑戦記録会</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">ー</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#21_gakuren"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#21_gakuren"><u>詳細</u></a></td>
 									</tr>
 									<tr>
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">29日</td>

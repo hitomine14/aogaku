@@ -168,9 +168,9 @@
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>29:33.55</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:30.78</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;">29:33.55</td>
+                <td align="center" style="font-size : 110%;text-align : center;">28:30.78</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:24.50</pb></td>
 
               </tr>
               <tr>
@@ -342,7 +342,7 @@
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>30:55.10</normal></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><pb>29:13.05</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;">29:17:88</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;">29:25.92</td>
 
               </tr>
               <tr>
@@ -384,8 +384,8 @@
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
                 <td align="center" style="font-size : 110%;text-align : center;">30:41.83</td>
                 <td align="center" style="font-size : 110%;text-align : center;">29:43.84</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>29:09.47</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:57.21</pb></td>
+                <td align="center" style="font-size : 110%;text-align : center;">29:09.47</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:37.38</pb></td>
 
               </tr>
               <tr>
@@ -428,7 +428,7 @@
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>29:55.65</normal></td>
                 <td align="center" style="font-size : 110%;text-align : center;">30:05.55</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>29:05.71</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>29:05.19</pb></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:35.65</pb></td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>

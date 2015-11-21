@@ -75,13 +75,13 @@
                 <td align="center" style="font-size : 110%;text-align : center;"><pb>14:52.97</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;">15:00.97</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#f00"></font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>31:43.16</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -167,7 +167,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>30:46.34</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
@@ -210,7 +210,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>32:38.99</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -296,7 +296,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>30:44.69</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -339,7 +339,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>33:02.92<pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -382,7 +382,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#fff">00:00.00</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>32:07.31</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
@@ -425,7 +425,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>30:31.26</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -459,16 +459,16 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#f00">14:18.84</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#333">14:31.67</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:18.84</pb></td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:31.67</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00<none></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00<none></td>
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>29:58.37</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
@@ -511,7 +511,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;">ー</td>
-                <td align="center" style="font-size : 110%;text-align : center;"></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>31:14.85</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
                 <td align="center" style="font-size : 110%;text-align : center;"></td>
