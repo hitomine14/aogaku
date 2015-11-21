@@ -38,15 +38,15 @@
       ranking_start("10000m");
         ranking_schema();
         ranking_list(1,"一色　恭志",3,"28:23.40",14,7,"black");
-        ranking_list(2,"小椋　裕介",4,"28:27.73",14,7,"black");
-        ranking_list(3,"久保田和真",4,"28:30.78",14,11,"black");
-        ranking_list(4,"神野　大地",4,"28:41.48",13,11,"black");
-        ranking_list(5,"渡邉　　心",4,"28:57.21",15,9,"blue");
-        ranking_list(6,"秋山　雄飛",3,"28:58.93",14,7,"black");
-        ranking_list(7,"中村　祐紀",2,"29:02.88",15,4,"blule");
-        ranking_list(8,"安藤　悠哉",3,"29:03.25",15,4,"blue");
-        ranking_list(9,"渡邉　利典",4,"29:05.19",15,4,"blue");
-        ranking_list(10,"池田　生成",3,"29:06.16",15,4,"blue");
+        ranking_list(2,"久保田和真",4,"28:24.50",15,11,"blue");
+        ranking_list(3,"小椋　裕介",4,"28:27.73",14,7,"black");
+        ranking_list(4,"下田　裕太",2,"28:33.77",15,11,"blue");
+        ranking_list(5,"中村　祐紀",2,"28:34.66",15,11,"blue");
+        ranking_list(6,"渡邉　利典",4,"28:35.05",15,11,"blue");
+        ranking_list(7,"渡邉　心　",4,"28:37.38",15,11,"blue");
+        ranking_list(8,"神野　大地",4,"28:41.48",13,11,"black");
+        ranking_list(9,"田村　和希",2,"28:46.81",15,11,"blue");
+        ranking_list(10,"池田　生成",3,"28:51.31",15,11,"blue");
         ranking_end();
       ?>
       <?php

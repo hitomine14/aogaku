@@ -16,7 +16,7 @@ function form_rank_aside(){
         <h3 class="hpb-c-index">バナースペース</h3>
         <ul>
           <li><a href="'.$rank_track.'#5000m" style="font-size : 150%;text-align : center;">5000m</a>
-          <li><a href="r'.$rank_track.'#10000m" style="font-size : 150%;text-align : center;">10000m</a>
+          <li><a href="'.$rank_track.'#10000m" style="font-size : 150%;text-align : center;">10000m</a>
           <li><a href="'.$rank_track.'#ha-fu" style="font-size : 150%;text-align : center;">ハーフマラソン</a>
           <li><a href="'.$rank_road.'#hakone" style="font-size : 150%;text-align : center;">箱根駅伝</a>
 	        <li><a href="'.$rank_road.'#izumo" style="font-size : 150%;text-align : center;">出雲駅伝</a>
