@@ -82,7 +82,7 @@
                 <td align="center" style="font-size : 110%;text-align : center;">10000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>ー</normal></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><pb>31:06.51</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>30:58.66</normal></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><normal>31:34.79</normal></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
 
