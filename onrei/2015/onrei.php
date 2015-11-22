@@ -27,7 +27,21 @@
     form_onrei_free("ファイル名","氏名","商品","写真メンバー","width"もしくは"height"); 不定形
     -->
     
-    
+    <tr>
+      <td bgcolor="#CCFF99" style="text-align : center;" align="center"><a href="images/miyako.JPG" rel="lightbox[onrei]" title="gekirei"><img src="images/miyako.JPG" width="203" height="270" alt="gekirei" title="gekirei"></a>
+      </td>
+      <td bgcolor="#CCFF99" style="text-align : left;" align="left" width="254" valign="middle">
+      先日行われた宮古サーモンハーフマラソンにて一般女子ハーフの部優勝の佐藤由貴様（姉妹都市黒石市選手団）より、
+      激励として優勝賞品のこけしを譲って頂きました。<br>
+      <br>
+      佐藤様は同大会6連覇だそうです。これにあやかり我々も箱根駅伝連覇に向け頑張ります!<br>
+      <br>
+      この度は、誠にありがとうございました。
+      </td> 
+    </tr>
+      <?php form_onrei_free("11takahashi.JPG","青山学院大学OBで株式会社アスコム代表取締役社長の高橋克佳様","大量のウイダーinゼリー","中村・神野・一色","height"); ?>      
+      <?php form_onrei_free("11kokoro.JPG","渡邉心(4年)の祖母","ちりめんとお菓子","近藤・秋山","width"); ?>      
+      <?php form_onrei_parent("11murai.JPG","村井",3,"メロン","吉田・桂川","height"); ?>    
       <?php form_onrei_free("11koseki.JPG","小関(3年)の祖父","ラフランス","森田・橋間","width"); ?>      
       <?php form_onrei_free("11ando.JPG","安藤(3年)の祖母","柿","健人・茂木","width"); ?>      
       <?php form_onrei_free("11horikawa.JPG","熊本県・人参屋堀川農園の堀川様","みかん","久保田","height"); ?>
@@ -80,7 +94,7 @@
     <?php form_onrei_parent("10sano.JPG","女子マネージャーの佐野",1,"ウイダーのinゼリー","松島・弘毅","width"); ?>
     <?php form_onrei_free("iwasako.JPG","青山学院校友会島根支部の岩迫様","お米","橋本・利典","height"); ?>
     <?php form_onrei_parent("10inamura.JPG","稲村",2,"梨","茂木・池田","width"); ?>
-    <?php form_onrei_free("10kamino.JPG","神野(3年)の祖母","どら焼き","石川・内田・小田","width"); ?>
+    <?php form_onrei_free("10kamino.JPG","神野(4年)の祖母","どら焼き","石川・内田・小田","width"); ?>
     <?php form_onrei_free("fukuda.JPG","青山学院大学陸上競技部OBの福田様","パン","吉永・伊藤弘毅","height"); ?>
     <?php form_onrei_free("kinden.JPG","株式会社きんでん様","ポカリスエット","稲村・貞永","height"); ?>
     <?php form_onrei_free("kitte.JPG","岐阜県地域スポーツ課の切手様","りんご","森田・茂木・小野塚隆珠・桂川","height"); ?>
