@@ -19,6 +19,40 @@
 	<div id="info"><!-- info -->
 	<!-- ここから編集 -->
 	<h3 class="hpb-parts-hl-08 hpb-parts-hl-style">2015年度　～競技日程～</h3>
+<!-- 東海5000m -->
+	<a name="21_tokai"></a>
+	<table>
+	<tbody>
+		<tr>
+		<td bgcolor="#CCFF99" style="font-size : 140%;" width="599"><b>●2015年　11月29日（日） 東海大記録会</b></td>
+		</tr>
+		<tr>
+		<td width="599" style="font-size:120%;">＜5000mエントリー＞<br>
+		伊藤　弘毅（4年）<br>
+		松島　良太（4年）<br>
+		内田　翼　（3年）<br>
+		小野塚隆珠（3年）<br>
+		鈴木　悠日（3年）<br>
+		田村　健人（3年）<br>
+		石川　優作（2年）<br>
+		伊藤　雅一（2年）<br>
+		稲村　健太（2年）<br>
+		大越　望　（2年）<br>
+		大杉　柊平（2年）<br>
+		小田　俊平（2年）<br>
+		貞永　隆佑（2年）<br>
+		小野塚久弥（1年）<br>
+		桂川　直也（1年）<br>
+		木村　光佑（1年）<br>
+		橋詰　大慧（1年）<br>
+		橋間　貴弥（1年）<br>
+		林　　奎介（1年）<br>
+		松田　岳大（1年）<br>
+		森田　歩希（1年）<br>
+		山田　滉介（1年）<br>
+		</tr>
+	</tbody>
+	</table>
 <!-- 学連10000m -->
 	<a name="21_gakuren"></a>
 	<table>
