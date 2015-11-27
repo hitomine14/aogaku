@@ -26,7 +26,10 @@
     form_onrei_parent("ファイル名","氏名",学年,"商品","写真メンバー","width"もしくは"height");  保護者からの差し入れ
     form_onrei_free("ファイル名","氏名","商品","写真メンバー","width"もしくは"height"); 不定形
     -->
-    
+      <?php form_onrei_free("11tsukahara.JPG","青山学院大学校友会の塚原様","みかん","下田","height"); ?>
+      <?php form_onrei_parent("11onoduka.JPG","小野塚兄弟",3.1,"ラフランス","松島・小野田","width"); ?>
+      <?php form_onrei_free("11cocido.JPG","町田市の地中海料理店「コシード」様","お菓子","隆珠","height"); ?>
+      <?php form_onrei_parent("11yoshida.JPG","吉田",3,"海苔","富田・吉田・森田","height"); ?>
     <tr>
       <td bgcolor="#CCFF99" style="text-align : center;" align="center"><a href="images/miyako.JPG" rel="lightbox[onrei]" title="gekirei"><img src="images/miyako.JPG" width="203" height="270" alt="gekirei" title="gekirei"></a>
       </td>
@@ -39,11 +42,11 @@
       この度は、誠にありがとうございました。
       </td> 
     </tr>
-      <?php form_onrei_free("11takahashi.JPG","青山学院大学OBで株式会社アスコム代表取締役社長の高橋克佳様","大量のウイダーinゼリー","中村・神野・一色","height"); ?>      
-      <?php form_onrei_free("11kokoro.JPG","渡邉心(4年)の祖母","ちりめんとお菓子","近藤・秋山","width"); ?>      
-      <?php form_onrei_parent("11murai.JPG","村井",3,"メロン","吉田・桂川","height"); ?>    
-      <?php form_onrei_free("11koseki.JPG","小関(3年)の祖父","ラフランス","森田・橋間","width"); ?>      
-      <?php form_onrei_free("11ando.JPG","安藤(3年)の祖母","柿","健人・茂木","width"); ?>      
+      <?php form_onrei_free("11takahashi.JPG","青山学院大学OBで株式会社アスコム代表取締役社長の高橋克佳様","大量のウイダーinゼリー","中村・神野・一色","height"); ?>
+      <?php form_onrei_free("11kokoro.JPG","渡邉心(4年)の祖母","ちりめんとお菓子","近藤・秋山","width"); ?>
+      <?php form_onrei_parent("11murai.JPG","村井",3,"メロン","吉田・桂川","height"); ?>
+      <?php form_onrei_free("11koseki.JPG","小関(3年)の祖父","ラフランス","森田・橋間","width"); ?>
+      <?php form_onrei_free("11ando.JPG","安藤(3年)の祖母","柿","健人・茂木","width"); ?>
       <?php form_onrei_free("11horikawa.JPG","熊本県・人参屋堀川農園の堀川様","みかん","久保田","height"); ?>
       <?php form_onrei_free("11hasuike.JPG","愛知県在住の蓮池様","ジュース","中村・一色・村井","width"); ?>
     
@@ -103,7 +106,7 @@
     <?php form_onrei_parent("10matsuda.JPG","松田",1,"お米","木村","height"); ?>
     <?php form_onrei_parent("10akiyama.JPG","秋山",3,"枝豆","山村・近藤","height"); ?>
     <?php form_onrei_free("fujikawa.JPG","青山学院大学陸上競技部OB・前主将の藤川拓也様","梨","村井・安藤・渡邉心","width"); ?>
-    <?php form_onrei_free("fujita.JPG","兵庫県在住の藤田様","枝豆","山田・富田","height"); ?>                        
+    <?php form_onrei_free("fujita.JPG","兵庫県在住の藤田様","枝豆","山田・富田","height"); ?>
     <?php form_onrei_free("matsuki.JPG","町田市の一級建築事務所の松木様","お米","吉田","height"); ?>
     <?php form_onrei_free("yoshida.JPG","大田区在住の吉田様","お米","秋山・橋間","height"); ?>
     <?php form_onrei_free("matsuda.JPG","町田市在住の松田様","出雲駅伝優勝のお祝いとしてR-1","橋本・中村","height"); ?>
@@ -113,9 +116,9 @@
     <?php form_onrei_free("10hasimoto.jpg","橋本(4年)の祖父","お菓子","下田・大越","height"); ?>
     <?php form_onrei_free("10tamuken.jpg","田村(3年)の親戚","梨","伊藤弘毅・田村健人","height"); ?>
     <?php form_onrei_parent("10ogoshi.jpg","大越",2,"ウィダーのinゼリー","田村和希・小椋","width"); ?>
-    <?php form_onrei_free("9suzuki.jpg","青山学院大学陸上競技部OBの鈴木惇司様","ゼリー","小椋・橋本","height"); ?>                        
-    <?php form_onrei_free("9mine.jpg","嶺（4年）の祖母","ぶどう","桂川・久保田・近藤","width"); ?>                        
-    <?php form_onrei_free("9kobayashi.jpg","町田市在住の小林様","煎餅","木村・林","width"); ?>                        
+    <?php form_onrei_free("9suzuki.jpg","青山学院大学陸上競技部OBの鈴木惇司様","ゼリー","小椋・橋本","height"); ?>
+    <?php form_onrei_free("9mine.jpg","嶺（4年）の祖母","ぶどう","桂川・久保田・近藤","width"); ?>
+    <?php form_onrei_free("9kobayashi.jpg","町田市在住の小林様","煎餅","木村・林","width"); ?>
     <?php form_onrei_free("9onoduka.jpg","小野塚兄弟（3・1年）の祖母","ぶどう","山田・吉永","height"); ?>
     <?php form_onrei_parent("9tamura.jpg","田村",3,"梨","橋本・安藤・山田","width"); ?>
     <?php form_onrei_parent("9onoda.JPG","小野田",1,"お菓子","一色・秋山・富田","width"); ?>
