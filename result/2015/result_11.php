@@ -27,6 +27,31 @@
   result_list_sub(氏名、学年、タイム、順位、フラグ);
   result_end();
   -->
+  <?php
+    result_start(2015,11,29,"日","東海大学長距離競技会","5000m","tokai");
+    result_schema();
+      result_list("13組",4,"",0,"",0,"");
+        result_list_sub("小野塚　久弥",1,"",0,"");
+        result_list_sub("木村　光佑",1,"",0,"");
+        result_list_sub("大杉　柊平",2,"",0,"");
+        // result_list_sub("伊藤　雅一",2,"",0,"");
+      result_list("13組",13,"",0,"",0,"");
+        result_list_sub("鈴木　悠日",3,"",0,"");
+        result_list_sub("小田　俊平",2,"",0,"");
+        result_list_sub("石川　優作",2,"",0,"");
+        result_list_sub("森田　歩希",1,"",0,"");
+        result_list_sub("松島　良太",4,"",0,"");
+        result_list_sub("林　　奎介",1,"",0,"");
+        result_list_sub("小野塚隆珠",3,"",0,"");
+        result_list_sub("山田　滉介",1,"",0,"");
+        result_list_sub("大越　望　",2,"",0,"");
+        result_list_sub("松田　岳大",1,"",0,"");
+        result_list_sub("桂川　直也",1,"",0,"");
+        result_list_sub("橋間　貴弥",1,"",0,"");
+        // result_list_sub("橋詰　大慧",1,"",0,"");
+    result_end();
+  ?>
+
 
   <?php
     result_start(2015,11,21,"土","10000m記録挑戦競技会","10000m","gakuren");

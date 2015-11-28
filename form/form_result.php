@@ -135,6 +135,7 @@ function form_result_aside(){
   extract($GLOBALS);
   //11月結果
   result_link(2015,11);
+  result_link_list(2015,11,29,"東海5000m","29_tokai");
   result_link_list(2015,11,21,"学連10000m","21_gakuren");
   result_link_list(2015,11,1,"全日本大学駅伝","1_alljapan");
   result_link_end();

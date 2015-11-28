@@ -211,7 +211,7 @@
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">29日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">東海大記録会(5000m)</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">東海大湘南校舎<br>陸上競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#29_tokai"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_11.php#29_tokai"><u>詳細</u></a></td>
 									</tr>
 									
 									<tr>

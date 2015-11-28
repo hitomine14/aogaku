@@ -27,11 +27,10 @@
             -->
             <h3 class="hpb-parts-hl-08 hpb-parts-hl-style">トピック・お知らせ</h3>
             <?php
-            form_topic_yotei(2015,11,27,"東海大記録会",11);
+            form_topic_result(2015,11,29,"東海大長距離競技会","tokai");
+            form_topic_yotei(2015,11,27,"東海大長距離競技会",11);
             form_topic_onrei(2015,11,26);
             form_topic_result(2015,11,21,"10000m記録挑戦会","gakuren");
-            form_topic_result(2015,11,8,"各種大会","");
-            form_topic_yotei(2015,11,5,"各種大会",11);
             ?>
             <b>
               <font size="4">＜2015年度 『その一瞬を楽しめ』〜最強への徹底〜＞
