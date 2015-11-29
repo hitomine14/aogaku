@@ -29,9 +29,9 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:25.11</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><black>14:34.26</black></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><black>14:28.48</black></td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:25.11</td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:34.26</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:19.72</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.0</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
               </tr>
@@ -201,9 +201,9 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>15:11.44</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:59.03</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>14:59:52</normal></td>
+                <td align="center" style="font-size : 110%;text-align : center;">15:11.44</td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:59.03</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:56:34</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
               </tr>
@@ -244,9 +244,9 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>14:36.08</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:30.82</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><normal>14:33:97</normal></td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:36.08</td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:30.82</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:22:07</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
               </tr>

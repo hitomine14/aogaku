@@ -30,25 +30,23 @@
   <?php
     result_start(2015,11,29,"日","東海大学長距離競技会","5000m","tokai");
     result_schema();
-      result_list("13組",4,"",0,"",0,"");
-        result_list_sub("小野塚　久弥",1,"",0,"");
-        result_list_sub("木村　光佑",1,"",0,"");
-        result_list_sub("大杉　柊平",2,"",0,"");
-        // result_list_sub("伊藤　雅一",2,"",0,"");
-      result_list("13組",13,"",0,"",0,"");
-        result_list_sub("鈴木　悠日",3,"",0,"");
-        result_list_sub("小田　俊平",2,"",0,"");
-        result_list_sub("石川　優作",2,"",0,"");
-        result_list_sub("森田　歩希",1,"",0,"");
-        result_list_sub("松島　良太",4,"",0,"");
-        result_list_sub("林　　奎介",1,"",0,"");
-        result_list_sub("小野塚隆珠",3,"",0,"");
-        result_list_sub("山田　滉介",1,"",0,"");
-        result_list_sub("大越　望　",2,"",0,"");
-        result_list_sub("松田　岳大",1,"",0,"");
-        result_list_sub("桂川　直也",1,"",0,"");
-        result_list_sub("橋間　貴弥",1,"",0,"");
-        // result_list_sub("橋詰　大慧",1,"",0,"");
+      result_list("13組",4,"小野塚久弥",1,"14:49.35",2,"pb");
+        result_list_sub("伊藤　雅一",2,"14:53.46",4,"");
+        result_list_sub("大杉　柊平",2,"14:56.34",6,"pb");
+        result_list_sub("木村　光佑",1,"15:07.67",12,"");
+      result_list("13組",13,"石川　優作",2,"14:19.72",5,"pb");
+        result_list_sub("小田　俊平",2,"14:22.07",11,"pb");
+        result_list_sub("森田　歩希",1,"14:22.71",12,"sb");
+        result_list_sub("橋詰　大慧",1,"14:25.47",13,"");
+        result_list_sub("大越　望　",2,"14:25.96",14,"");
+        result_list_sub("橋間　貴弥",1,"14:31.07",16,"");
+        result_list_sub("山田　滉介",1,"14:34.16",17,"sb");
+        result_list_sub("松田　岳大",1,"14:36.56",18,"pb");
+        result_list_sub("松島　良太",4,"14:40.70",21,"");
+        result_list_sub("林　　奎介",1,"14:45.34",22,"");
+        result_list_sub("鈴木　悠日",3,"14:53.98",23,"");
+        result_list_sub("小野塚隆珠",3,"14:59.45",25,"");
+        result_list_sub("桂川　直也",1,"15:55.13",26,"");
     result_end();
   ?>
 

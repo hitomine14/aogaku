@@ -72,8 +72,8 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:52.97</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;">15:00.97</td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:52.97</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:49.35</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00:00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
@@ -416,8 +416,8 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#f00">14:44.92</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#333">14:48.11</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:44.92</td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:36.56</pb></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
@@ -460,7 +460,7 @@
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><pb>14:18.84</pb></td>
-                <td align="center" style="font-size : 110%;text-align : center;">14:31.67</td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:22.71</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00</none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00<none></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><none>00:00.00<none></td>
@@ -502,8 +502,8 @@
               </tr>
               <tr>
                 <td align="center" style="font-size : 110%;text-align : center;">5000m</td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#ff0000">14:29.09</font></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><font color="#333">14:35.02</font></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>14:29.09</pb></td>
+                <td align="center" style="font-size : 110%;text-align : center;">14:34.16</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
                 <td align="center" style="font-size : 110%;text-align : center;"><font color="#ffffff">00:00.00</font></td>
