@@ -428,7 +428,7 @@
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>29:55.65</normal></td>
                 <td align="center" style="font-size : 110%;text-align : center;">30:05.55</td>
                 <td align="center" style="font-size : 110%;text-align : center;"><normal>29:05.71</normal></td>
-                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:35.65</pb></td>
+                <td align="center" style="font-size : 110%;text-align : center;"><pb>28:35.05</pb></td>
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
