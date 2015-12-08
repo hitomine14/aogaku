@@ -175,7 +175,7 @@
               </tr>
               <tr>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">ハーフ(20km)</td>
-                <td align="center" style="font-size : 110%;text-align : center;">59:29</td>
+                <td align="center" style="font-size : 110%;text-align : center;">59:28</td>
                 <td align="center" style="font-size : 110%;text-align : center;">12・10</td>
                 <td style="font-size : 110%;text-align : center;" align="center" colspan="2">高島平20km</td>
               </tr>
