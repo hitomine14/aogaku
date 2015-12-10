@@ -23,10 +23,11 @@
             form_topic_result(大会年,月,日,大会名,フラグ);  試合結果
             form_topic_yotei(更新年,月,日,大会名,大会月);
             form_topic_onrei(更新年,月,日);
-            form_topic_free(更新年,月,日,大会月) 試合予定
+            form_topic_free(更新年,月,日,文章,フラグ) 試合予定
             -->
             <h3 class="hpb-parts-hl-08 hpb-parts-hl-style">トピック・お知らせ</h3>
             <?php
+            form_topic_free(2016,1,"2-3","第92回東京箱根間往復大学駅伝競走のチームエントリーを掲載しました。",1);
             form_topic_result(2015,11,29,"東海大長距離競技会","tokai");
             form_topic_yotei(2015,11,27,"東海大長距離競技会",11);
             form_topic_onrei(2015,11,26);

@@ -68,9 +68,9 @@
     form_yotei_content_day(1,2015,11,29,"東海大記録会(5000m)","東海大湘南校舎<br>陸上競技場","2_tokai","詳細");
     //12月のレース
     form_yotei_content_month(2,1,2015,12,"2-6","箱根駅伝選抜強化合宿","千葉県富津","","");
-    form_yotei_content_day(1,2015,12,13,"国士舘大記録会(5000m)","国士舘大<br>多摩陸上競技場","","");
+    form_yotei_content_day(1,2015,12,13,"国士舘大記録会(5000m)","国士舘大<br>多摩陸上競技場","kokushikan","詳細");
     //1月のレース 
-   form_yotei_content_month(3,1,2016,1,"2-3","箱根駅伝","大手町→箱根","hakone","");
+   form_yotei_content_month(3,1,2016,1,"2-3","箱根駅伝","大手町→箱根","hakone","詳細");
     form_yotei_content_day(1,2016,1,10,"高根沢ハーフマラソン","栃木県<br>高根沢町","takanezawa","");
     form_yotei_content_day(1,2016,1,24,"都道府県対抗広島男子駅伝","広島","todouhuken","");
     //2月のレース
