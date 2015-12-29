@@ -27,11 +27,9 @@
             -->
             <h3 class="hpb-parts-hl-08 hpb-parts-hl-style">トピック・お知らせ</h3>
             <?php
-            form_topic_free(2016,1,"2-3","第92回東京箱根間往復大学駅伝競走のチームエントリーを掲載しました。",1);
-            form_topic_result(2015,11,29,"東海大長距離競技会","tokai");
-            form_topic_yotei(2015,11,27,"東海大長距離競技会",11);
-            form_topic_onrei(2015,11,26);
-            form_topic_result(2015,11,21,"10000m記録挑戦会","gakuren");
+            form_topic_result(2015,12,13,"国士舘記録会","kokushikan");
+            form_topic_onrei(2015,12,12);
+            form_topic_free(2015,12,10,"第92回東京箱根間往復大学駅伝競走のチームエントリーを掲載しました。",1);
             ?>
             <b>
               <font size="4">＜2015年度 『その一瞬を楽しめ』〜最強への徹底〜＞

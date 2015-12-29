@@ -225,7 +225,7 @@
 										<td valign="middle" style="text-align : center;" align="center" rowspan="1">13日</td>
 										<td valign="middle" style="text-align : center;" align="center" width="169">国士舘大記録会(5000m)</td>
 										<td valign="middle" style="text-align : center;" align="center" width="147">国士舘大<br>多摩陸上競技場</td>
-										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_12.php#13_kokusikan"><u></u></a></td>
+										<td valign="middle" style="text-align : center;" align="center" width="37"><a href="result_12.php#13_kokusikan"><u>詳細</u></a></td>
 									</tr>
 									
 									<tr>
